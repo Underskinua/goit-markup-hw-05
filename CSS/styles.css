@@ -325,7 +325,7 @@ img {
 }
 
 .description-exp h3 {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 14px;
   line-height: 16.41px;
@@ -510,7 +510,7 @@ img {
   padding: 24px;
   background-color: rgba(33, 150, 243, 0.9);
   color: #ffffff;
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   opacity: 0;
   overflow: hidden;
