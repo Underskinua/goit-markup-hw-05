@@ -186,6 +186,8 @@ img {
 }
 /*--page-primary-baner-section-------*/
 .banner {
+  width: 1600px;
+  margin: auto;
   background: var(--bg-color-black);
   background-image: radial-gradient(
       rgba(47, 48, 58, 0.4),
