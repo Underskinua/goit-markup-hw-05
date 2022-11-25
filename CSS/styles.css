@@ -457,7 +457,6 @@ img {
 
 .portfolio button {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   white-space: nowrap;
   font-weight: 500;
   font-size: 16px;
@@ -665,8 +664,6 @@ address li:not(:last-child) {
 
 .backdrop.is-hidden .modal {
   transform: translate(0%, -100%) scale(0.01);
-  height: 0;
-  width: 0;
   border-radius: 50%;
 }
 
